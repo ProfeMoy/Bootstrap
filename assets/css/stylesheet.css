@@ -1,0 +1,18 @@
+#profilePic {
+    border-radius: 50%;
+    border: white 10px solid;
+    box-shadow: 0px 0px 15px 5px #00000050;
+}
+
+#personalInfo {
+    padding: 0;
+    margin: 0;
+}
+
+#personalInfo li {
+    list-style: none;
+}
+
+#personalInfo li a {
+    color: white;
+}
